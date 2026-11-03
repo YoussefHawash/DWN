@@ -1,0 +1,11 @@
+# PyTorch with CUDA 12.8 (GPU). For a CPU-only machine, delete this line.
+--extra-index-url https://download.pytorch.org/whl/cu128
+torch
+torchvision
+numpy
+pandas
+scikit-learn
+python-dateutil
+openml           # downloads the JSC dataset
+torch-dwn        # the paper's library, from PyPI (builds its CUDA kernel at install)
+matplotlib

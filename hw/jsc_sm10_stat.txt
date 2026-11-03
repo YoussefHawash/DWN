@@ -1,0 +1,23 @@
+
+3. Printing statistics.
+
+=== dwn_top ===
+
+        +----------Local Count, excluding submodules.
+        | 
+       51 wires
+     3276 wire bits
+       19 public wires
+     3244 public wire bits
+        3 ports
+     3204 port bits
+       73 cells
+        1   BUFG
+       38   FDRE
+        1   FDSE
+       13   LUT2
+        7   LUT4
+        1   LUT5
+       10   LUT6
+        2   SRL16E
+
