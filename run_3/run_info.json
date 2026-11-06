@@ -1,0 +1,32 @@
+{
+ "run": 3,
+ "started": "2026-11-07 00:12:08",
+ "RUN": {
+  "mnist_sm": false,
+  "mnist_lg": false,
+  "jsc_sm10": false,
+  "jsc_sm50": false,
+  "jsc_md": false,
+  "jsc_lg": true
+ },
+ "INPUT_REG": false,
+ "FAST_RTL": true,
+ "CONFIGS": {
+  "jsc_lg": {
+   "data": "jsc",
+   "z": 200,
+   "layers": [
+    2400
+   ],
+   "tau": 33.333333333333336,
+   "bs": 100,
+   "epochs": 32,
+   "step": 14,
+   "paper": [
+    76.3,
+    4972,
+    3305
+   ]
+  }
+ }
+}

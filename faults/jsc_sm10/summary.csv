@@ -1,5 +1,0 @@
-component,faults,faults: masked %,faults: tolerable %,faults: significant %,faults: critical %,inferences: tolerable %,inferences: significant %,inferences: critical %,mean_drop_pp,worst_drop_pp
-L0 LUT bit,640,70.938,6.094,0.0,22.969,1.36,0.0,0.202,0.058,5.424
-L0 LUT output stuck,20,0.0,0.0,0.0,100.0,43.532,0.0,6.468,1.864,5.581
-L0 LUT input stuck,120,11.667,2.5,0.0,85.833,8.593,0.0,1.922,0.43,5.411
-count register,10,0.0,0.0,0.0,100.0,46.53,15.779,37.691,21.6,57.996
